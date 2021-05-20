@@ -11,4 +11,8 @@
 <br>
 ► ᴀɴʏ ᴅᴏᴜʙᴛs ᴀʙᴏᴜᴛ ᴍʏ ᴘʀᴏᴊᴇᴄᴛs ᴊᴜsᴛ ᴄᴀʟʟ ᴍᴇ 👍
 
+
 ![Welcome](/2970.gif?raw=true)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=every0x)](https://github.com/every0x/github-readme-stats)
+
